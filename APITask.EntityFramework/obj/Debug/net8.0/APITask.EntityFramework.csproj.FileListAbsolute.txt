@@ -1,0 +1,17 @@
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.EntityFramework.deps.json
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.EntityFramework.runtimeconfig.json
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.EntityFramework.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.EntityFramework.pdb
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.Core.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\bin\Debug\net8.0\APITask.Core.pdb
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.csproj.AssemblyReference.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.csproj.CopyComplete
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\refint\APITask.EntityFramework.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.pdb
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\APITask.EntityFramework.genruntimeconfig.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.EntityFramework\obj\Debug\net8.0\ref\APITask.EntityFramework.dll

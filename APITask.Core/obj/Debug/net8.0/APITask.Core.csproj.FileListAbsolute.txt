@@ -1,0 +1,11 @@
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\bin\Debug\net8.0\APITask.Core.deps.json
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\bin\Debug\net8.0\APITask.Core.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\bin\Debug\net8.0\APITask.Core.pdb
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\refint\APITask.Core.dll
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\APITask.Core.pdb
+F:\ME\Study\Software Engineering\Practice\APITask\APITask.Core\obj\Debug\net8.0\ref\APITask.Core.dll
