@@ -1,4 +1,4 @@
-# API-Demo
+# EmployeeAPI-Demo
 
 This is a small demo of Employee API.
 
